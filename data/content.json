@@ -1,0 +1,58 @@
+{
+ "texts": {},
+ "galleries": {
+  "bedrooms": [
+   {
+    "src": "images/bedrooms/bedroom-01.webp",
+    "alt": "تەقەمی نوستن بە سەری قەرەوێڵەی ڕووپۆشکراو و ڕووناکی دیوار - مۆبڵیاتی عەبدوڵڵا",
+    "caption": ""
+   },
+   {
+    "src": "images/bedrooms/bedroom-02.webp",
+    "alt": "ژووری نوستنی دوو قەرەوێڵە بە سەری قەرەوێڵەی خۆڵەمێشی",
+    "caption": ""
+   },
+   {
+    "src": "images/bedrooms/bedroom-03.webp",
+    "alt": "ژووری نوستنی مۆدێرن بە دولابی لیژنەیی و سەری قەرەوێڵەی کرێم",
+    "caption": ""
+   },
+   {
+    "src": "images/bedrooms/bedroom-04.webp",
+    "alt": "سەری قەرەوێڵەی ڕووپۆشکراو بە ڕووناکی LED",
+    "caption": ""
+   }
+  ],
+  "wardrobes": [
+   {
+    "src": "images/wardrobes/wardrobe-01.webp",
+    "alt": "دولابی دار بە دەرگای خۆڵەمێشی و ڕەفی نمایش",
+    "caption": ""
+   },
+   {
+    "src": "images/wardrobes/wardrobe-02.webp",
+    "alt": "دولابی مۆدێرن بە دەرگای شووشە و کێشەی ڕووناکی",
+    "caption": ""
+   }
+  ],
+  "decor": [
+   {
+    "src": "images/decor/decor-01.webp",
+    "alt": "دیکۆری دیواری تەلەڤزیۆن بە دار و ڕووناکی LED",
+    "caption": ""
+   }
+  ],
+  "kitchens": [
+   {
+    "src": "images/kitchens/kitchen-01.webp",
+    "alt": "چێشتخانەی مۆدێرن بە دار و سپی",
+    "caption": ""
+   },
+   {
+    "src": "images/kitchens/kitchen-02.webp",
+    "alt": "چێشتخانەی شێوەی U بە ڕووناکی ژێر دولاب",
+    "caption": ""
+   }
+  ]
+ }
+}
